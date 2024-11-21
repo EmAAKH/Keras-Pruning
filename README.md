@@ -2,4 +2,4 @@
 Pruning Network just with Keras
 
 # Steps
-  ## 1. 
+## 1. 
